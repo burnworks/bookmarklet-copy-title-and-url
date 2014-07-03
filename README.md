@@ -58,7 +58,7 @@ URL の部分を一旦すべて削除した上で、先ほどコピーした内�
 
 下記のページにブックマークレット一覧がありますので、そこから上記の使い方を参考にブックマークに追加してください。
 
-* [http://hyper-text.org/archives/2014/07/bookmarklet-copy-title-and-url/](Web ページ のタイトルと URL をコピーするブックマークレット)
+* [Web ページ のタイトルと URL をコピーするブックマークレット](http://hyper-text.org/archives/2014/07/bookmarklet-copy-title-and-url/)
 
 「モバイルブラウザ（iPhone など）の場合」で書いてあるものと同様の方法でも追加できます。
 
@@ -66,4 +66,4 @@ URL の部分を一旦すべて削除した上で、先ほどコピーした内�
 
 下記のページで本ブックマークレットについての解説記事を書いています。参考まで。
 
-* [http://hyper-text.org/archives/2014/07/bookmarklet_copy_title_and_url.shtml](iPhone Safari などで Web ページ のタイトルと URL をコピーするブックマークレットを作った)
+* [iPhone Safari などで Web ページ のタイトルと URL をコピーするブックマークレットを作った](http://hyper-text.org/archives/2014/07/bookmarklet_copy_title_and_url.shtml)
