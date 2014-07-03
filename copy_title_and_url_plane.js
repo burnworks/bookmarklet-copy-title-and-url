@@ -1,0 +1,1 @@
+javascript:(function(){window.prompt('選択してコピーしてください',document.title+' '+document.URL);})();
