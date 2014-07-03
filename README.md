@@ -40,7 +40,7 @@ URL の部分を一旦すべて削除した上で、先ほどコピーした内�
 
 ##### ページタイトルと URL を HTML 形式でコピー</h5>
 
-    javascript:(function(){window.prompt('選択してコピーしてください','&lt;a href=&quot;'+document.URL+'&quot; target=&quot;_blank&quot;&gt;'+document.title+'&lt;/a&gt;');})();
+    javascript:(function(){window.prompt('選択してコピーしてください','<a href="'+document.URL+'" target="_blank">'+document.title+'</a>');})();
 
 ##### ページタイトルと URL を Markdown 形式でコピー
 
