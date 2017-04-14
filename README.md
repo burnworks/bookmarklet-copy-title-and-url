@@ -34,11 +34,11 @@ URL の部分を一旦すべて削除した上で、先ほどコピーした内�
 
 上記の使い方を参考にブックマークに登録してください。
 
-##### ページタイトルと URL をプレーンテキスト形式でコピー</h5>
+##### ページタイトルと URL をプレーンテキスト形式でコピー
 
     javascript:(function(){window.prompt('選択してコピーしてください',document.title+' '+document.URL);})();
 
-##### ページタイトルと URL を HTML 形式でコピー</h5>
+##### ページタイトルと URL を HTML 形式でコピー
 
     javascript:(function(){window.prompt('選択してコピーしてください','<a href="'+document.URL+'" target="_blank">'+document.title+'</a>');})();
 
@@ -62,7 +62,7 @@ URL の部分を一旦すべて削除した上で、先ほどコピーした内�
 
 下記のページにブックマークレット一覧がありますので、そこから上記の使い方を参考にブックマークに追加してください。
 
-* [Web ページ のタイトルと URL をコピーするブックマークレット](http://hyper-text.org/archives/2014/07/bookmarklet-copy-title-and-url/)
+* [Web ページ のタイトルと URL をコピーするブックマークレット](https://hyper-text.org/archives/2014/07/bookmarklet-copy-title-and-url/)
 
 「モバイルブラウザ（iPhone など）の場合」で書いてあるものと同様の方法でも追加できます。
 
@@ -70,4 +70,4 @@ URL の部分を一旦すべて削除した上で、先ほどコピーした内�
 
 下記のページで本ブックマークレットについての解説記事を書いています。参考まで。
 
-* [iPhone Safari などで Web ページ のタイトルと URL をコピーするブックマークレットを作った](http://hyper-text.org/archives/2014/07/bookmarklet_copy_title_and_url.shtml)
+* [iPhone Safari などで Web ページ のタイトルと URL をコピーするブックマークレットを作った](https://hyper-text.org/archives/2014/07/bookmarklet_copy_title_and_url.shtml)
